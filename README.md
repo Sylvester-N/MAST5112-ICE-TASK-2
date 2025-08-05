@@ -4,8 +4,7 @@ Silvester Nyangulu - ST10470942
 Leander Hughes - ST10471529
 Sami El Naamani - ST10470683
 
-GitHub: 
-
+GitHub: https://github.com/Sylvester-N/MAST5112-ICE-TASK-2.git 
 
 Mystery Number Challenge
 

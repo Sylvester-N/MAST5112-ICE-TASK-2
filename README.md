@@ -34,12 +34,12 @@ A restart button resets the game with a new number and clears previous guesses.
 
 App Features
 
-Random number generation on start and reset
-Text input for user guesses
-Real-time feedback messages
-Restart button to replay the game
-Attempt counter to track guesses
-TypeScript for type safety and cleaner logic
+-Random number generation on start and reset
+-Text input for user guesses
+-Real-time feedback messages
+-Restart button to replay the game
+-Attempt counter to track guesses
+-TypeScript for type safety and cleaner logic
 
 Some Challenges
 
